@@ -30,7 +30,7 @@ Laracoffee is a web application built using the Laravel framework that allows us
 - Product Page: Users can purchase products, view product details, and leave product reviews 
 
   
-### Venfor 
+### Vendor
 - Authentication and Registration Page: Vendor can log in or register for an account.
 - Home Page: The main landing page for vendor.
 - Profile Page: Users can edit their profile data and change passwords if needed.
